@@ -15,6 +15,8 @@ translation-reviewer:
 - Jairo A. Melo
 - Maria José Afanador-Llach
 - Antonio Rojas Castro
+translation-editor:
+- Antonio Rojas Castro
 layout: lesson
 next: salida-de-datos-como-archivo-html
 previous: contar-frecuencias
