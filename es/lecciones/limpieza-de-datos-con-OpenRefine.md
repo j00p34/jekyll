@@ -16,6 +16,8 @@ translator:
 translation-reviewer:
 - Antonio Rojas Castro
 - Luisina Silva
+translation-editor:
+- Antonio Rojas Castro
 layout: lesson
 redirect_from: /es/lessons/cleaning-data-with-openrefine
 difficulty: 2
