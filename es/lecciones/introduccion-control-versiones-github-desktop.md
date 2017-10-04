@@ -14,6 +14,8 @@ translator:
 translation-reviewer:
 - María José Afanador-Llach
 - Víctor Gayol
+translation-editor:
+- Antonio Rojas Castro
 layout: lesson
 difficulty: 1
 activity: sustaining
