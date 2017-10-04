@@ -14,6 +14,8 @@ editor:
 translation-reviewer:
 - Antonio Rojas Castro
 - Maria José Afanador-Llach
+translation-editor:
+- Antonio Rojas Castro
 layout: lesson
 difficulty: 2
 activity: sustaining
