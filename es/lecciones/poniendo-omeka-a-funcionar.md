@@ -13,6 +13,8 @@ translator:
 translation-reviewer:
 - Antonio Rojas Castro
 - Alicia Calvo
+translation-editor:
+- Antonio Rojas Castro
 layout: lesson
 redirect_from: /es/lessons/up-and-running-with-omeka
 difficulty: 1
