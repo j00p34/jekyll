@@ -16,6 +16,8 @@ translation-reviewer:
 - Jairo A. Melo
 - Maria José Afanador-Llach
 - Antonio Rojas Castro
+translation-editor:
+- Antonio Rojas Castro
 layout: lesson
 categories: [lessons, python, original-ph]
 difficulty: 2
