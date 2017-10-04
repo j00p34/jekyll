@@ -14,6 +14,8 @@ editor:
 translation-reviewer:
 - José Calvo Tello
 - Antonio Rojas Castro
+translation-editor:
+- Antonio Rojas Castro
 layout: lesson
 redirect_from: /es/lessons/installing-python-modules-pip
 difficulty: 1
