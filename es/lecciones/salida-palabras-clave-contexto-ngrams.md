@@ -15,6 +15,8 @@ translation-reviewer:
 - Jairo A. Melo
 - Maria José Afanador-Llach
 - Antonio Rojas Castro
+translation-editor:
+- Antonio Rojas Castro
 layout: lesson
 previous: palabras-clave-en-contexto-n-grams
 redirect_from: /es/lessons/output-keywords-in-context-in-html-file
