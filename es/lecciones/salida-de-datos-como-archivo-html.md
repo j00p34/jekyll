@@ -15,6 +15,8 @@ translation-reviewer:
 - Jairo A. Melo
 - Maria José Afanador-Llach
 - Antonio Rojas Castro
+translation-editor:
+- Antonio Rojas Castro
 layout: lesson
 next: palabras-clave-en-contexto-n-grams
 previous: crear-y-ver-archivos-html-con-python
