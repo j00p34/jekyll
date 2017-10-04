@@ -15,6 +15,8 @@ translator:
 translation-reviewer:
 - Juan Cobo
 - Maria José Afanador
+translation-editor:
+- Antonio Rojas Castro
 difficulty: 1
 activity: presenting
 layout: lesson
