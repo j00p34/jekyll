@@ -19,6 +19,8 @@ editor:
 translation-reviewer:
 - Antonio Rojas Castro
 - Juan Antonio Pastor Sánchez
+translation-editor:
+- Antonio Rojas Castro
 layout: lesson
 redirect_from: /es/lessons/graph-databases-and-SPARQL
 difficulty: 2
